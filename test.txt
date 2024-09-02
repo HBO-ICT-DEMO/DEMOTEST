@@ -1,1 +1,2 @@
 Dit is een demo voor klas ITV1A
+Dit is een aanpassing via GITHUB
